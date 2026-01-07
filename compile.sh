@@ -1,2 +1,2 @@
-
+unzip squashfs.zip
 make LZO_SUPPORT=0 LZ4_SUPPORT=0 ZSTD_SUPPORT=0
